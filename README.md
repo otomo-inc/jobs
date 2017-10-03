@@ -2,4 +2,6 @@
 
 # See Wiki
 
-https://github.com/otomo-travel/hiring/wiki
+And you will find your best job there. :thumbsup:
+
+https://github.com/otomo-travel/jobs/wiki
